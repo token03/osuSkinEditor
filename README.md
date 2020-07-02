@@ -1,3 +1,3 @@
 # osuSkinEditor
 
-Extract the Skin Asset folder onto the desktop
+Extract the asset folder onto the desktop
