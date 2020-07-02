@@ -1,3 +1,3 @@
 # osuSkinEditor
 
-Download the asset folder and place on desktop. Add new folders for other asset stuff :)
+Extract the Skin Asset folder onto the desktop
