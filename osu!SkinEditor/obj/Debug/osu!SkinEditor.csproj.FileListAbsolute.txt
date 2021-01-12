@@ -1,0 +1,7 @@
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\bin\Debug\osu!SkinEditor.exe.config
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\bin\Debug\osu!SkinEditor.exe
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\bin\Debug\osu!SkinEditor.pdb
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\obj\Debug\osu!SkinEditor.csprojAssemblyReference.cache
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\obj\Debug\osu!SkinEditor.exe
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\obj\Debug\osu!SkinEditor.pdb
+C:\Users\jiank\source\repos\osu!SkinEditor\osu!SkinEditor\obj\Debug\osu!SkinEditor.csproj.CoreCompileInputs.cache
